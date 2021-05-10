@@ -4,4 +4,4 @@ Por meio do Projeto de Lei nº 251, de 2021, que *dispõe sobre a criação de u
 
 A mapa a seguir ilustra essas 4 URAEs.
 
-<iframe width="100%" height="520" frameborder="0" src="https://rawcdn.githack.com/michelmetran/pl251/558d204c9476d109f0e9b3b5528e73cf0169bd6b/maps/pl251_map.html" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
+<iframe width="100%" height="520" frameborder="0" src="https://raw.githack.com/michelmetran/pl251/main/maps/pl251_map.html" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
