@@ -6,10 +6,23 @@ Por meio do Projeto de Lei nº 251, de 2021, que *dispõe sobre a criação de u
 
 A mapa a seguir ilustra essas 4 URAEs.
 
-<iframe width="100%" height="520" frameborder="0" src="https://raw.githack.com/michelmetran/pl251/main/maps/pl251_map.html" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
+<iframe width="100%" height="520" frameborder="0" src="https://rawcdn.githack.com/michelmetran/pl251/b766678ff808cea9f76d1fdbc355eea2ae62f1f6/maps/pl251_map.html" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
 
 <br>
 
 Para facilitar a visualização, fiz um *dual map*, que possibilita a sincronia entre os mapas da direita e esquerda.
 
-<iframe width="100%" height="520" frameborder="0" src="https://raw.githack.com/michelmetran/pl251/main/maps/pl251_map_dual.html" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
+<iframe width="100%" height="520" frameborder="0" src="https://rawcdn.githack.com/michelmetran/pl251/b766678ff808cea9f76d1fdbc355eea2ae62f1f6/maps/pl251_map_dual.html" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
+
+
+<!--- 
+https://raw.githack.com/
+
+https://raw.githack.com/michelmetran/pl251/main/maps/pl251_map.html
+https://raw.githack.com/michelmetran/pl251/main/maps/pl251_map_dual.html
+
+https://raw.githubusercontent.com/michelmetran/pl251/main/maps/pl251_map.html
+https://raw.githubusercontent.com/michelmetran/pl251/main/maps/pl251_map_dual.html
+-->
+
+
