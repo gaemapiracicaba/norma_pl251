@@ -6,13 +6,11 @@ Por meio do Projeto de Lei nº 251, de 2021, que *dispõe sobre a criação de u
 
 A mapa a seguir ilustra essas 4 URAEs.
 
-<iframe width="100%" height="520" frameborder="0" src="https://rawcdn.githack.com/michelmetran/pl251/b766678ff808cea9f76d1fdbc355eea2ae62f1f6/maps/pl251_map.html" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
-
-<br>
-
-Para facilitar a visualização, fiz um *dual map*, que possibilita a sincronia entre os mapas da direita e esquerda.
-
-<iframe width="100%" height="520" frameborder="0" src="https://rawcdn.githack.com/michelmetran/pl251/b766678ff808cea9f76d1fdbc355eea2ae62f1f6/maps/pl251_map_dual.html" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
+<div class="alert alert-danger">
+<b>OBSERVAÇÃO</b><br/>
+    Por tratar-se de <i>site</i> apenas para testes, em servidor com baixa capacidade, optou-se por inserir os mapas em outro site, aperfeiçoando a nvageblidade.<br/>
+    Segue o <a href="http://pl251.michelmetran.com.br/" target="_blank" title="PL251"><i>LINK</i></a>.
+</div>
 
 
 <!--- 
@@ -21,8 +19,20 @@ https://raw.githack.com/
 https://raw.githack.com/michelmetran/pl251/main/maps/pl251_map.html
 https://raw.githack.com/michelmetran/pl251/main/maps/pl251_map_dual.html
 
+
+b766678
+
 https://raw.githubusercontent.com/michelmetran/pl251/main/maps/pl251_map.html
 https://raw.githubusercontent.com/michelmetran/pl251/main/maps/pl251_map_dual.html
+
+
+
+<iframe width="100%" height="520" frameborder="0" src="https://rawcdn.githack.com/michelmetran/pl251/b766678ff808cea9f76d1fdbc355eea2ae62f1f6/maps/pl251_map.html" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
+
+<br>
+
+Para facilitar a visualização, fiz um *dual map*, que possibilita a sincronia entre os mapas da direita e esquerda.
+
+<iframe width="100%" height="520" frameborder="0" src="https://rawcdn.githack.com/michelmetran/pl251/b766678ff808cea9f76d1fdbc355eea2ae62f1f6/maps/pl251_map_dual.html" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
+
 -->
-
-
