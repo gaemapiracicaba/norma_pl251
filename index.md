@@ -4,14 +4,12 @@ Por meio do Projeto de Lei nº 251, de 2021, que *dispõe sobre a criação de u
 
 <br>
 
-A mapa a seguir ilustra essas 4 URAEs.
-
 <div class="alert alert-danger">
 <b>OBSERVAÇÃO</b><br/>
-    Por tratar-se de <i>site</i> apenas para testes, em servidor com baixa capacidade, optou-se por inserir os mapas em outro site, aperfeiçoando a nvageblidade.<br/>
-    Segue o <a href="http://pl251.michelmetran.com.br/" target="_blank" title="PL251"><i>LINK</i></a>.
+    Por tratar-se de <i>site</i> apenas para testes, em servidor com baixa capacidade, os mapas estavam lentos para serem carregados.<br>
+    Portanto, optou-se por inserir os mapas em outro <i>site</i>, aperfeiçoando a interatividade.<br/>
+    Segue o <a href="http://pl251.michelmetran.com.br/" target="_blank" title="PL251"><i><b>Link</b></i></a>.
 </div>
-
 
 <!--- 
 https://raw.githack.com/
