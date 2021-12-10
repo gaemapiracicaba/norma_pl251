@@ -1,7 +1,6 @@
-pages/
-gh-pages/
-pl251_graphs_plotly.ipynb
-.vscode
+# IDEs
+.idea/
+.vscode/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
