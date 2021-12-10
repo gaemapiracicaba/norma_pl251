@@ -11,7 +11,3 @@ Por meio do Projeto de Lei nº 251, de 2021, que "dispõe sobre a criação de u
 ### *ToDo*
 
 1. Incluir Comitês
-
-dddd
-
-
