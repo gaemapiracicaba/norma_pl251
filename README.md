@@ -20,6 +20,6 @@ O presente repositório buscou confrontar, visualmente, a proposta das URAEs com
 
 ----
 
-### *ToDo*
+### *TODO*
 
 1. Incluir Comitês de Bacias
